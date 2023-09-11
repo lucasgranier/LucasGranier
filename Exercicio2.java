@@ -1,3 +1,5 @@
+package uff.ic.lleme.tcc00328.exercicios
+
 public class TabelaCampeonato {
     // Constantes simbólicas
     public static final int PG = 0;
