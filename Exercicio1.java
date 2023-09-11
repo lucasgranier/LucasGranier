@@ -1,3 +1,5 @@
+package uff.ic.lleme.tcc00328.exercicios.LucasGranier
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
