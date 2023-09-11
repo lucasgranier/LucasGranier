@@ -1,3 +1,5 @@
+package uff.ic.lleme.tcc00328.exercicios
+
 import java.util.Random;
 
 public class JogoDeDados {
